@@ -1,4 +1,4 @@
-##👋 Hi, I'm Aditya</br>
+👋 Hi, I'm Aditya</br>
 
 🎓 B.Tech CSE @ Silicon University</br>
 💡 Machine Learning Engineer | Deep Learning | NLP | Computer Vision</br>
