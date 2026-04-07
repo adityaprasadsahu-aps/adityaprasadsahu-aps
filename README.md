@@ -18,12 +18,14 @@ Computer Vision: OpenCV, CNNs, U-Net
 NLP: Hugging Face, Text Processing, Embeddings
 Tools & Platforms: Docker, Git, MongoDB, Adafruit IO
 Hardware/IoT: Raspberry Pi, Sensors, Edge AI
+
 🔬 What I Work On
 🤖 Building AI-powered applications
 📊 Developing end-to-end ML pipelines
 🧩 Creating RAG-based systems with LLMs
 🖼️ Working on Computer Vision models (Image Processing, U-Net)
 🌐 Integrating IoT with AI systems
+
 📌 Current Focus
 Scaling Generative AI applications
 Improving model performance & deployment
