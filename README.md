@@ -30,5 +30,5 @@ Lung Cancer Prediction</br>
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=adityaprasadsahu-apse&theme=tokyonight)
+![Trophies](https://github-profile-trophy.vercel.app/?username=adityaprasadsahu-aps&theme=tokyonight)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=adityaprasadsahu-aps&theme=tokyonight)
